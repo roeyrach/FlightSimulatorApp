@@ -35,8 +35,10 @@ The project is written in Java, and divided into three parts:
 
 ![image](https://user-images.githubusercontent.com/93862727/175351730-83c7a14b-f052-49a0-8079-b42db55a6438.png)
 
+##
 
-
+![Monitoring](https://user-images.githubusercontent.com/93585090/175935144-fde0b202-ef97-4e45-9180-18bf372da8b2.PNG)
+##
 This part of the project devided into four tabs: Fleet Overview, Monitoring, Teleoperation, Time Capsule.
 
 
